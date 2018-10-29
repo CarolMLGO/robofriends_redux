@@ -1,1 +1,2 @@
-# robofriends_redux
+# robofriends
+using react to build an interactive websites
